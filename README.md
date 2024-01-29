@@ -1,7 +1,7 @@
-# Suspicious-Human-Activity-Detection-LRCN
+# Suspicious-Human-Activity-Detection-LRCN(Long-term recurrent convolutional network)
 Suspicious Human Activity detection on CCTV camera footage using LRCN Model. 
 <br><br>
-This project aims at Suspicious Human Activity detection on CCTV camera footage using LRCN Model.<br>
+This project aims at Suspicious Human Activity detection on CCTV camera footage using LRCN(Long-term recurrent convolutional network) Model.<br>
 The model detect human activity like - walking, running and fighting which can be used to classify in Suspicious or non-suspicious class.<br>
 [Project report](Report.pdf) is also present in the project.<br><br>
 
